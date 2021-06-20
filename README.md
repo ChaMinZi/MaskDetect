@@ -3,5 +3,4 @@
 
 
 ## Introduction PPT
-[시각지능프로젝트-2020-04.pptx](https://github.com/ChaMinZi/DetectMask/AI_이노베이션_교육_프로젝트.pptx)
-
+[AI 이노베이션 교육_프로젝트.pptx](https://github.com/ChaMinZi/MaskDetect/files/6682794/AI._.pptx)
